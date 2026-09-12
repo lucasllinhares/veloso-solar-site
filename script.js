@@ -138,7 +138,7 @@
       var rotulo = { res: 'residencial', com: 'comercial', rur: 'rural' }[t];
       var msg = 'Olá! Simulei no site: conta de ' + brl.format(conta) + '/mês (' + rotulo +
         '). O simulador indicou um sistema de ' + outKwp.textContent + '. Quero o orçamento exato.';
-      cta.href = 'https://wa.me/5586981138182?text=' + encodeURIComponent(msg);
+      cta.href = 'https://wa.me/5586981789161?text=' + encodeURIComponent(msg);
 
       // trilha preenchida do slider
       var min = +range.min, max = +range.max;

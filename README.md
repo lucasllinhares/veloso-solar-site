@@ -41,4 +41,4 @@ Também funciona em Netlify, GitHub Pages ou qualquer hospedagem comum.
 - **Simulador**: as premissas de cálculo (tarifa por tipo de ligação, irradiação,
   performance ratio e custo por kWp) ficam no topo do bloco do simulador em
   `script.js` — ajuste conforme os preços praticados.
-- **WhatsApp**: o número `5586981138182` aparece em `index.html` e `script.js`.
+- **WhatsApp**: o número `5586981789161` aparece em `index.html` e `script.js`.

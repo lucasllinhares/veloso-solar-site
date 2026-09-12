@@ -354,6 +354,7 @@ input[type=range]::-moz-range-thumb{
 /* ---------- Footer ---------- */
 .site-footer{background:var(--navy-900);color:#fff;padding:3.5rem 0 2rem;border-top:1px solid var(--line-dark)}
 .footer-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:2.5rem}
+.foot-brand img{border-radius:50%;object-fit:cover}
 .foot-brand p{color:rgba(255,255,255,.6);font-size:.92rem;margin-top:1rem;max-width:34ch}
 .foot-col h3{font-size:.78rem;font-family:var(--f-mono);font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--sun-400);margin-bottom:1rem;font-stretch:100%}
 .foot-col ul{display:grid;gap:.6rem}
